@@ -7,5 +7,5 @@ When a financial institute lends money to a customer, they are taking some kind 
 
 This github project uses the dataset from Kaggle: "Give me some credit" https://www.kaggle.com/c/GiveMeSomeCredit 
 
-I have have done this project to practise my data science skills. It is my first attempt to tackle at a "real" world dataset problem. 
+I have have done this project to practise my data science skills. It is my first attempt to tackle a "real" world dataset problem. 
 
